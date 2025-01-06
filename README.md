@@ -7,7 +7,7 @@
 
 
 
-This is a monodepth model which gives relative depth / distance of the objects from camera.
+This is a monodepth model which gives relative depth / distance of the objects from camera. In the above image on the right, the brighter objects are the ones nearer to the camera and those farther away are labeled darker in color by the model.
 
 
 ### Steps to run:
