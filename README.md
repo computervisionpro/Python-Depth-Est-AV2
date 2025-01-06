@@ -10,5 +10,10 @@
 This is a monodepth model which gives relative depth / distance of the objects from camera.
 
 
+### Steps to run:
+- Install the libraries in requirements.txt
+- run the file 
+
+
 ### References:
 [Paper](https://depth-anything-v2.github.io/)
