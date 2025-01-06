@@ -12,7 +12,7 @@ This is a monodepth model which gives relative depth / distance of the objects f
 
 ### Steps to run:
 - Install the libraries in requirements.txt
-- run the file 
+- run the file `dp-av2.py`
 
 
 ### References:
