@@ -1,12 +1,9 @@
-# Depth Anything V2
+# Depth-Anything-V2
 
 
 
 
-### Requirements:
-
-- torch==2.5.1
-
+<img src="https://github.com/computervisionpro/action-recognition/blob/main/activity-recognition.png" alt="Output" width="400" height="500">
 
 
 ### References:
